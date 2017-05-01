@@ -1,0 +1,8 @@
+{
+	"description": "Plugin for Sublime Text that saves all opened files path to a temp file.",
+	"url": "https://github.com/lsilvs/Sublime-Opened-Files-List.git",
+	"platforms": ["*"],
+	"version": "1.0.0",
+	"sublime_text": "*",
+	"dependencies": []
+}
